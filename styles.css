@@ -1,0 +1,10 @@
+body{
+    background-color: #e5e5f7;
+    opacity: 0.9;
+    background: linear-gradient(135deg, #44b8f755 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(225deg, #44cdf7 25%, transparent 25%) -10px 0/ 20px 20px, linear-gradient(315deg, #44d6f755 25%, transparent 25%) 0px 0/ 20px 20px, linear-gradient(45deg, #44d6f7 25%, #e5e5f7 25%) 0px 0/ 20px 20px;
+}
+
+/*body{
+   background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(33, 67, 40) 0%, rgb(54, 136, 83) 0%, rgb(17, 255, 0) 100%);
+}*/
